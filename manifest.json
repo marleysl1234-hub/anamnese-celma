@@ -1,0 +1,14 @@
+{
+  "name": "Anamnese Psicológica — Celma Soares da Cruz Luz",
+  "short_name": "Anamnese",
+  "description": "Anamnese psicológica digital para investigação de neurodivergências",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F7F6F1",
+  "theme_color": "#F7F6F1",
+  "icons": [
+    { "src": "icons/logo-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
